@@ -158,9 +158,9 @@ else:
 # In[ ]:
 
 
-""""
+"""
 9.If your programme is stuck in an endless loop, what keys you’ll press?
-Answer: Ctrl+c
+Answer: Ctrl+c 
 
 
 # In[ ]:
@@ -195,7 +195,8 @@ up to, but not including, the second argument (10 in this case).
 range(0, 10, 1):
 This form of range() generates a sequence of numbers starting from the first argument (0 in this case)
 up to, but not including, the second argument (10 in this case), with the specified step value 
-(1 in this case).
+(1 in this case). 
+ 
 
 
 # In[16]:
